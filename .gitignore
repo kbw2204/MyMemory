@@ -1,3 +1,2 @@
-*.h	binary
-*.m	binary
-*.swift	text
+MyMemory/*.h
+MyMemory/*.m
