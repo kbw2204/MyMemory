@@ -1,3 +1,5 @@
+MyMemory/* linguist-vendored
+
 MyMemory/*.h	binary
 MyMemory/*.m	binary
 MyMemory/*.swift	text
